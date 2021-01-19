@@ -29,13 +29,13 @@ My name is facca , vai ti toma\ nu cu
 
 <p>
     <a href="https://discordapp.com/users/289112759948410881/">
-        <img alt="Discord" src="https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%237289DA&label=&message=Marmota%232533"/>
+        <img alt="Discord" src="https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%237289DA&label=&message=Facca%232533"/>
     </a>
     <a href="https://www.youtube.com/channel/UCuAQVmK-qV0zXOPEMKJ8r2Q/">
-        <img alt="Youtube" src="https://img.shields.io/static/v1?style=flat&logo=youtube&logoColor=white&color=%23FF0000&label=&message=Marmota"/>
+        <img alt="Youtube" src="https://img.shields.io/static/v1?style=flat&logo=youtube&logoColor=white&color=%23FF0000&label=&message=Facca"/>
     </a>
     <a href="https://www.twitch.tv/marmotinhaa/">
-        <img alt="Twitch" src="https://img.shields.io/static/v1?style=flat&logo=twitch&logoColor=white&color=%239146FF&label=&message=marmotinhaa"/>
+        <img alt="Twitch" src="https://img.shields.io/static/v1?style=flat&logo=twitch&logoColor=white&color=%239146FF&label=&message=Facca"/>
     </a>
     <a href="https://www.linkedin.com/in/jaime-daniel-38273a1bb/">
         <img alt="LinkedIn" src="https://img.shields.io/static/v1?style=flat&logo=linkedin&logoColor=white&color=%230A66C1&label=&message=Jaime%20Daniel"/>
